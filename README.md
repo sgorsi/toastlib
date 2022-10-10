@@ -13,5 +13,5 @@ allprojects {
   Step 2. Add the dependency
   
   	dependencies {
-		implementation 'com.github.User:Repo:1.1.0'
+		 implementation 'com.github.sgorsi:toastlib:1.1.0'
 	}
